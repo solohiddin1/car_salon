@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Salon Management System
 
 ## Overview
@@ -39,6 +38,3 @@ This project is a simple salon management system that allows users to manage a c
  - For any inquiries, please contact:
 
  - **Solohididn** - sirojiddinovsolohiddin961@gmail.com
-=======
-# car_salon
->>>>>>> 4cdb3498cde9acc1e120ed0710b354243319cd54
